@@ -1,0 +1,1 @@
+Place .lua or .txt in this folder to automatically execute them. also DELETE THIS .TXT
